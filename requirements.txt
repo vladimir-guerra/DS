@@ -1,3 +1,7 @@
+altgraph==0.17.5
 customtkinter==6.0.0
 darkdetect==0.8.0
 packaging==26.3
+pyinstaller==6.22.2
+pyinstaller-hooks-contrib==2026.7
+setuptools==84.0.0
